@@ -1,7 +1,7 @@
 # 🌟 Interactive 3D Resume
 
 A modern, interactive 3D resume built with Next.js and Three.js, showcasing professional experience through an immersive web experience.
-👉 Live demo: Explore the tool in action. https://interactive-resume-beige.vercel.app/
+👉 Live demo: Explore the tool in action. https://interactive-resume-sthefany-angeles.vercel.app/
 
 ## Features
 
