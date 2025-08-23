@@ -114,7 +114,7 @@ const projects = [
   },
   // Add more projects...
 ];
-
+```
 ## 👤 Author
 
 **Sthefany Angeles Rodriguez**
