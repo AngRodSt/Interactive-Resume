@@ -2,7 +2,7 @@ export default function AboutSection() {
   return (
     <div className="w-[760px] h-[480px] p-8 bg-gradient-to-br from-slate-800/95 via-blue-900/95 to-slate-900/95 backdrop-blur-sm text-white border border-blue-400/30 rounded-xl overflow-hidden">
       <h2 className="font-bold text-3xl mb-8 bg-gradient-to-r from-blue-400 to-amber-400 bg-clip-text text-transparent">
-        About Me
+        👩‍💻 About Me
       </h2>
       <div className="space-y-6 text-slate-100 leading-relaxed overflow-y-auto max-h-[380px]">
         <div className="grid grid-cols-2 gap-8">
@@ -22,11 +22,11 @@ export default function AboutSection() {
               Professional Background
             </h3>
             <p className="text-sm mb-4">
-              I am a passionate full-stack developer from the Dominican Republic
-              with a deep enthusiasm for technology and innovation. My journey
-              in programming began with a curiosity about how digital solutions
-              can transform everyday challenges into opportunities for growth
-              and efficiency.
+              I am a QA Engineer from the Dominican Republic 🇩🇴 specialized in
+              manual & automated testing, with a solid foundation in software
+              engineering. My journey in quality assurance combines technical
+              expertise with a passion for delivering exceptional user
+              experiences.
             </p>
           </div>
 
@@ -39,14 +39,13 @@ export default function AboutSection() {
               >
                 <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              AI & Innovation
+              Testing Expertise
             </h3>
             <p className="text-sm mb-4">
-              My fascination with artificial intelligence has led me to explore
-              various AI technologies and their practical applications in web
-              development. I am constantly experimenting with AI APIs, machine
-              learning models, and intelligent automation to create smarter,
-              more intuitive user experiences.
+              Experienced in Cypress, Selenium, and Jest for functional,
+              regression, and E2E testing. Strong understanding of frontend
+              architecture (React, Next.js, React Native), enabling effective
+              collaboration with development teams.
             </p>
           </div>
         </div>
@@ -64,14 +63,13 @@ export default function AboutSection() {
                   d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
                 />
               </svg>
-              Development Philosophy
+              Quality Philosophy
             </h3>
             <p className="text-sm mb-4">
-              I am a strong advocate for clean, maintainable code and modern
-              development practices. I prioritize code quality, performance
-              optimization, and user experience in every project I undertake. My
-              approach combines technical excellence with creative
-              problem-solving.
+              Passionate about improving software quality, user experience, and
+              testing efficiency. I believe quality isn&apos;t just about
+              testing — it&apos;s about understanding users, anticipating
+              issues, and building trust in every release.
             </p>
           </div>
 
@@ -84,13 +82,13 @@ export default function AboutSection() {
               >
                 <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3z" />
               </svg>
-              Personal Interests
+              Currently Learning
             </h3>
             <p className="text-sm mb-4">
-              Beyond coding, I am passionate about exploring emerging
-              technologies, contributing to open-source projects, and sharing
-              knowledge with the developer community. I enjoy participating in
-              tech meetups, online forums, and collaborative coding sessions.
+              Enhancing automation workflows with Cypress and Selenium,
+              practicing manual testing techniques for exploratory and
+              regression testing, integrating QA pipelines into CI/CD workflows,
+              and exploring AI-assisted testing tools.
             </p>
           </div>
         </div>
